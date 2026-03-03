@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "type": "warning",
-  "message": "API is currently degraded. Some features may not work."
+  "type": "error",
+  "message": "This is some test stuff"
 }
