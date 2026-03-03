@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "type": "error",
   "message": "This is some test stuff"
 }
